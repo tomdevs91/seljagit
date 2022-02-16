@@ -1,1 +1,5 @@
-nrdtnrdtnostsodfksdo
+<?php
+
+  echo "Seljina govna"
+
+  ?>
